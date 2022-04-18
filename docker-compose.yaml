@@ -27,11 +27,13 @@ services:
   
   minideb:
     container_name: apm-server
-    image: joaoevalente97/elastic-apm:v1
+    image: joaoevalente97/elastic-apm:v2
     ports:
       - 8200:8200
     networks:
       - elastic
+    depends_on:
+      - kibana
 volumes:
   elasticsearch_data:
     driver: local
