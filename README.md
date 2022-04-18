@@ -1,7 +1,3 @@
-<script>
-var YOUR_GITHUB_USERNAME = joaoevalente97
-var YOUR_NAME = João Valente
-</script>
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Elastic Apm" />
 
@@ -12,19 +8,19 @@ var YOUR_NAME = João Valente
 <h1 align="center">Elastic Apm</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/elastic-apm?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/joaoevalente97/elastic-apm?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/{{YOUR_GITHUB_USERNAME}}/elastic-apm?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/joaoevalente97/elastic-apm?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/{{YOUR_GITHUB_USERNAME}}/elastic-apm?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/joaoevalente97/elastic-apm?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/{{YOUR_GITHUB_USERNAME}}/elastic-apm?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/joaoevalente97/elastic-apm?color=56BEB8">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/{{YOUR_GITHUB_USERNAME}}/elastic-apm?color=56BEB8" />
+  <img alt="Github issues" src="https://img.shields.io/github/issues/joaoevalente97/elastic-apm?color=56BEB8" />
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/{{YOUR_GITHUB_USERNAME}}/elastic-apm?color=56BEB8" />
+  <img alt="Github forks" src="https://img.shields.io/github/forks/joaoevalente97/elastic-apm?color=56BEB8" />
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/{{YOUR_GITHUB_USERNAME}}/elastic-apm?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/joaoevalente97/elastic-apm?color=56BEB8" />
 </p>
 
 Status
@@ -42,7 +38,7 @@ Status
   <a href="#white_check_mark-requirements">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
+  <a href="https://github.com/joaoevalente97" target="_blank">Author</a>
 </p>
 
 <br>
@@ -77,7 +73,7 @@ Antes de :checkered_flag:, você precisa ter Docker-cli e Docker-Compose instala
 
 ```bash
 # Clone 
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/elastic-apm
+$ git clone https://github.com/joaoevalente97/elastic-apm
 
 # Compose
 $ docker-compose up -d
@@ -90,7 +86,7 @@ $ docker-compose up -d
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/joaoevalente97" target="_blank">João Valente</a>
 
 &#xa0;
 
