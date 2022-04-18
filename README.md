@@ -61,6 +61,8 @@ As ferramentas a seguir são utilizadas nesse projeto:
 - [Docker-Compose](https://docs.docker.com/compose/)
 - [ElasticSearch](https://www.elastic.co/pt/elasticsearch/)
 - [Kibana](https://www.elastic.co/pt/kibana/)
+- [Observability](https://www.elastic.co/guide/en/observability/7.17/index.html)
+- [APM-Server](https://www.elastic.co/guide/en/apm/guide/7.17/getting-started-apm-server.html)
 
 
 ## :white_check_mark: Requerimentos ##
