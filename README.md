@@ -1,3 +1,7 @@
+<script>
+var YOUR_GITHUB_USERNAME = joaoevalente97
+var YOUR_NAME = João Valente
+</script>
 <div align="center" id="top"> 
   <img src="./.github/app.gif" alt="Elastic Apm" />
 
