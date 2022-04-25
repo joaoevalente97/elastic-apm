@@ -27,7 +27,7 @@ services:
   
   minideb:
     container_name: apm-server
-    image: joaoevalente97/elastic-apm:v2
+    image: joaoevalente97/elastic-apm:v3
     ports:
       - 8200:8200
     networks:
